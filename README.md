@@ -1,5 +1,8 @@
 # Loyihaning Nomi: Telegram Davomat Boti
 
+![image](https://github.com/user-attachments/assets/9ec49da1-9179-40f7-9667-442146c301f7)
+
+
 ## Tavsif
 Asinxron dasturlash yordamida `aiogram` va `Tortoise ORM` bilan davomatni boshqarish uchun Telegram boti.
 
